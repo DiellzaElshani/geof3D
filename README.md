@@ -1,3 +1,4 @@
+```
 @prefix geof3d: <https://w3id.org/geof3d#> .
 @prefix dct:   <http://purl.org/dc/terms/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
@@ -116,3 +117,4 @@ geof3d:transform a geof3d:GeometricFunction ;
 geof3d:negate a geof3d:GeometricFunction ;
     rdfs:label "negate"@en ;
     rdfs:comment "Negates geometry coordinates or vector components (G → G′)."@en .
+```
